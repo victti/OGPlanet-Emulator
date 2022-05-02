@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<OGPUpdate>
+    <ActionInfo>
+        <ReturnCode>10000</ReturnCode>
+    </ActionInfo>
+    <VersionInfo>
+        <LauncherVersion>1</LauncherVersion>
+        <UpdateVersion>1</UpdateVersion>
+    </VersionInfo>
+</OGPUpdate>
